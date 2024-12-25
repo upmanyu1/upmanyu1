@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @upmanyu1
-- 👀 I’m interested in graphics design and programming    
-- 🌱 I’m currently learning python
+- 👀 I’m interested in programming    
+- 🌱 I’m currently learning web development
 - 📫 How to reach me ... instagram.com/upmanyu_430
 
 <!---
